@@ -1,0 +1,18 @@
+OrderID,CustomerName,ProductCategory,Sales,Quantity,Region,OrderDate
+1001,Alice Smith,Electronics,1200.5,2,North,1/15/2023
+1002,Bob Johnson,Apparel,45.75,1,South,1/16/2023
+1003,Charlie Brown,Home Goods,250,3,East,1/17/2023
+1001,Alice Smith,Electronics,1200.5,2,North,1/15/2023
+1005,Diana Prince,null,150,null,West,1/18/2023
+1006,Eve Adams,Apparel,null,1,North,1/19/2023
+1007,Frank White,Electronics,800.2,null,South,1/20/2023
+1008,Grace Lee,Home Goods,75.5,5,East,1/21/2023
+1009,Henry King,Electronics,null,2,West,1/22/2023
+1010,Ivy Green,,300,1,North,1/23/2023
+1011,Jack Black,Apparel,90.25,null,South,1/24/2023
+1012,Karen Blue,Home Goods,180,4,East,1/25/2023
+1013,Liam Scott,Electronics,600,2,West,1/26/2023
+1014,Mia Hall,Apparel,null,1,North,1/27/2023
+1015,Nora Bell,Home Goods,50,null,South,1/28/2023
+1001,Alice Smith,Electronics,1200.5,2,North,1/15/2023
+1016,Peter Gray,,400,3,East,1/29/2023
