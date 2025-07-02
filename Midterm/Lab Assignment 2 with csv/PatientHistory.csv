@@ -1,0 +1,31 @@
+PatientID,PatientName,DateOfVisit,Diagnosis,Treatment,Doctor,BillAmount,PaymentStatus,LastPaymentDate,FollowUpDays
+P001,John Doe,2023-01-15,Common Cold,Rest and Fluids,Dr. Smith,50.00,Paid,2023-01-15,7
+P002,Jane Smith,2023-02-01,Migraine,Medication,Dr. Jones,120.50,Paid,2023-02-05,14
+P003,Alice Brown,2023-02-10,Sprained Ankle,Physical Therapy,Dr. Davis,300.75,Pending,,21
+P004,Bob White,2023-03-05,Seasonal Allergies,Antihistamines,Dr. Smith,75.00,Paid,2023-03-05,7
+P005,Charlie Green,2023-03-20,Strep Throat,Antibiotics,Dr. Jones,90.25,Paid,2023-03-22,5
+P006,Diana Prince,2023-04-01,Routine Check-up,Preventive Care,Dr. Evans,80.00,Paid,2023-04-01,30
+P007,Edward Stark,2023-04-12,Back Pain,Chiropractic Adjustment,Dr. Wilson,450.00,Partially Paid,2023-04-20,
+P008,Fiona Glenn,2023-05-03,Insomnia,Sleep Study,Dr. Reed,600.00,Pending,,90
+P009,George King,2023-05-18,Flu,Antiviral Medication,Dr. Smith,110.00,Paid,2023-05-18,7
+P010,Hannah Scott,2023-06-01,Dermatitis,Topical Cream,Dr. Miller,,Paid,2023-06-02,10
+P011,Ivan Petrov,2023-06-10,Dental Cavity,Filling,,200.00,Pending,,
+P012,Julia Chen,2023-07-05,Sinus Infection,Antibiotics,Dr. Evans,95.00,Paid,2023-07-06,7
+P013,Kyle Ren,2023-07-20,Broken Arm,Cast Application,Dr. Davis,800.00,Partially Paid,2023-07-25,45
+P014,Laura Bell,2023-08-01,Anxiety,Therapy Session,Dr. Reed,100.00,Paid,2023-08-01,60
+P015,Mike Ross,2023-08-15,Food Poisoning,Observation,Dr. Jones,60.00,Paid,2023-08-15,3
+P016,Nancy Drew,2023-09-01,Ear Infection,Ear Drops,Dr. Smith,70.00,Paid,2023-09-01,7
+P017,Oscar Wilde,2023-09-10,Knee Pain,MRI,Dr. Wilson,750.00,Pending,,
+P018,Pamela Bee,2023-10-02,Vision Check,New Glasses,Dr. Miller,250.00,Paid,2023-10-03,365
+P019,Quinn Fabray,2023-10-18,Sore Throat,Rest,Dr. Evans,,Paid,2023-10-18,3
+P020,Rachel Green,2023-11-05,Allergy Test,Skin Prick Test,Dr. Smith,180.00,Pending,,
+P021,Steve Rogers,2023-11-20,Fractured Rib,Pain Management,Dr. Davis,550.00,Partially Paid,2023-11-25,90
+P022,Tina Belcher,2023-12-01,Vaccination,Flu Shot,Dr. Jones,30.00,Paid,2023-12-01,365
+P023,Uma Thurman,2023-12-15,High Blood Pressure,Medication Adjustment,Dr. Miller,100.00,Paid,2023-12-16,30
+P024,Victor Stone,2024-01-05,Minor Burn,Burn Cream,Dr. Evans,55.00,Paid,2024-01-05,7
+P025,Wendy Darling,2024-01-20,Dental Cleaning,Routine Dental Care,Dr. Baker,100.00,Paid,2024-01-20,180
+P001,John Doe,2023-01-15,Common Cold,Rest and Fluids,Dr. Smith,50.00,Paid,2023-01-15,7
+P005,Charlie Green,2023-03-20,Strep Throat,Antibiotics,Dr. Jones,90.25,Paid,2023-03-22,5
+P010,Hannah Scott,2023-06-01,Dermatitis,Topical Cream,Dr. Miller,,Paid,2023-06-02,10
+P013,Kyle Ren,2023-07-20,Broken Arm,Cast Application,Dr. Davis,800.00,Partially Paid,2023-07-25,45
+P018,Pamela Bee,2023-10-02,Vision Check,New Glasses,Dr. Miller,250.00,Paid,2023-10-03,365
